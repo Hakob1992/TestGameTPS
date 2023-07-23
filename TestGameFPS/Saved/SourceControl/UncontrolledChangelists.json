@@ -1,0 +1,44 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/PC/Documents/Unreal Projects/TestGameFPS 5.2/Content/Root/Level/MyGameMainLevel.umap",
+				"C:/Users/PC/Documents/Unreal Projects/TestGameFPS 5.2/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/NewAnimations/Mixamo_IK.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/TestGameFPS 5.2/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/NewAnimations/Mesh/Mixamo.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/TestGameFPS 5.2/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/NewAnimations/Mesh/Mixamo_PhysicsAsset.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/TestGameFPS 5.2/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/NewAnimations/Shooting_pistol.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/TestGameFPS 5.2/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/NewAnimations/Mesh/Unreal_Anim_Take_001.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/TestGameFPS 5.2/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/NewAnimations/Mesh/Unreal_Anim_mixamo_com.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/TestGameFPS 5.2/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/NewAnimations/Firing_Rifle.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/TestGameFPS 5.2/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/NewAnimations/Mesh/Mixamo_Skeleton.uasset",
+				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/TestGameFPS 5.2/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/NewAnimations/Mixamo_Retargeter.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/TestGameFPS 5.2/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Locomotion_IK.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/TestGameFPS 5.2/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/NewAnimations/Firing_RifleLocomotion.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/TestGameFPS 5.2/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/NewAnimations/Shooting_pistolLocomotion.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/TestGameFPS 5.2/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/NewAnimations/Firing_RifleLocomotion_Montage.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/TestGameFPS 5.2/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/NewAnimations/Shooting_pistolLocomotion_Montage.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/TestGameFPS 5.2/Content/AdvancedLocomotionV4/Blueprints/CharacterLogic/BP_PlayerCharacter.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/TestGameFPS 5.2/Content/AdvancedLocomotionV4/Blueprints/Weapons/BP_Weapon_base.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/TestGameFPS 5.2/Content/AdvancedLocomotionV4/Blueprints/Weapons/BP_Weapon_pistol.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/TestGameFPS 5.2/Content/AdvancedLocomotionV4/Blueprints/Weapons/BP_Weapon_Riffle.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/TestGameFPS 5.2/Content/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_Base_CharacterBP.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/TestGameFPS 5.2/Content/Root/Level/MyGameMainLevel_BuiltData.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/TestGameFPS 5.2/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/NewAnimations/Reload.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/TestGameFPS 5.2/Content/Reload.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/TestGameFPS 5.2/Content/AdvancedLocomotionV4/Reload.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/TestGameFPS 5.2/Content/AdvancedLocomotionV4/CharacterAssets/Reload.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/TestGameFPS 5.2/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Reload.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/TestGameFPS 5.2/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Reload_Montage.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/TestGameFPS 5.2/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/NewAnimations/Locomotion_IK.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/TestGameFPS 5.2/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/NewAnimations/Mesh/Unreal_PhysicsAsset.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/TestGameFPS 5.2/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/NewAnimations/Mesh/Unreal.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/TestGameFPS 5.2/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/NewAnimations/Mesh/Unreal_Skeleton.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/TestGameFPS 5.2/Content/Locomotion_IK.uasset"
+			]
+		}
+	]
+}
